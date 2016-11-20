@@ -39,8 +39,8 @@ def plot_roc_cmp(fpr,tpr,roc_auc, fpr2,tpr2,roc_auc2):
 if __name__ == '__main__':
     path1 = "../src/res/lisprobVals200"
     path2 = "../src/res/lislabels200"
-    path3 = "./src/res_beta/lisprobVals200"
-    path4 = "./src/res_beta/lislabels200"
+    path3 = "../src/res_beta/lisprobVals200"
+    path4 = "../src/res_beta/lislabels200"
     probVals = read_LIS_output(path1,'float')
     y = read_LIS_output(path2,'int')
     probVals1 = read_LIS_output(path3,'float')
