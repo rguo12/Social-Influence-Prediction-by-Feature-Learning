@@ -642,7 +642,8 @@ public class AdditiveInfModel_beta {
 			synchronized (Cons.lossEpoch){
 				Double UiNorm = VecTools.l2Norm(Cons.uMatrix[calcId]);
 				Double CiNorm = VecTools.l2Norm(Cons.cMatrix[calcId]);
-				Cons.lossEpoch[curEpoch] += 0.5*Cons.lbda*(1+Cons.mu)*(UiNorm+CiNorm)+Cons.phi*(UiNorm*CiNorm-VecTools.vecMultiply(Cons.uMatrix[calcId],Cons.cMatrix[calcId]));
+				//Cons.lossEpoch[curEpoch] += 0.5*Cons.lbda*(1+Cons.mu)*(UiNorm+CiNorm)+Cons.phi*(UiNorm*CiNorm-VecTools.vecMultiply(Cons.uMatrix[calcId],Cons.cMatrix[calcId]));
+				Cons.lossEpoch[curEpoch] += Cons.phi*(UiNorm*CiNorm-VecTools.vecMultiply(Cons.uMatrix[calcId],Cons.cMatrix[calcId]));
 			}
 		}
 		

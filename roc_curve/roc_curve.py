@@ -16,7 +16,7 @@ def read_LIS_output(path,datatype):
 
 
 def roc_curve_(y,scores):
-    fpr, tpr, thresholds = roc_curve(y, scores)
+    fpr, tpr, thresholds = roc_curve(y, scores,pos_label=1)
     roc_auc = auc(fpr,tpr)
     return fpr,tpr,roc_auc
 
@@ -36,8 +36,11 @@ def plot_roc(fpr,tpr,roc_auc):
     plt.show()
 
 if __name__ == '__main__':
-    path1 = "/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/res/lisprobVals200"
-    path2 = "/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/res/lislabels200"
+    path1 = "/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/res_gamma/lisprobVals100"
+    path2 = "/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/res_gamma/lislabels100"
+    #path1 = "/home/rguo12/Downloads/CSE575-soumajyoti/res_beta/lisprobVals200"
+    #path2 = "/home/rguo12/Downloads/CSE575-soumajyoti/res_beta/lislabels200"
+
     probVals = read_LIS_output(path1,'float')
     y = read_LIS_output(path2,'int')
     fpr,tpr,roc_auc = roc_curve_(y,probVals)

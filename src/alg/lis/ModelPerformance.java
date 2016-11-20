@@ -120,7 +120,7 @@ public class ModelPerformance {
 
     public void testingProcess() throws IOException{
         for (int i = 1; i*100 <= Cons.maxEpoch; i++){
-            System.out.println("===========Loading the U and C matrices for epoch "+10*i+"=========");
+            System.out.println("===========Loading the U and C matrices for epoch "+100*i+"=========");
             String uMatrixPath = Cons.resFilePathRoot+"_uMatrix_"+100*i;
             String cMatrixPath = Cons.resFilePathRoot+"_cMatrix_"+100*i;
             initiator.setUCMatrix(uMatrixPath,cMatrixPath);

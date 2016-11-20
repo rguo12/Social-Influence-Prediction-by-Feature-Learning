@@ -1,13 +1,13 @@
 //for data
 train_dat_file=/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/data/toy.dat
-result_file_root=./res/lis
+result_file_root=./res_gamma1/lis
 log_file=log
 //alg control
 node_size=1000
-feature_length=5
+feature_length=10
 beta=0.01
 paramL=50
-phi=0.1
+phi=1.0
 //alg performance
 lambda=.01
 mu=.3
@@ -23,4 +23,4 @@ thread_sleep_time=.1
 //prediction
 probThres=0.01
 moreNeg=1
-neg=1
+neg=0
