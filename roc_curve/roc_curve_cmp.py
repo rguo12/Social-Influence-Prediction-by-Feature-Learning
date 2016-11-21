@@ -39,6 +39,7 @@ def plot_roc_cmp(fpr,tpr,roc_auc, fpr2,tpr2,roc_auc2):
     plt.savefig('figx.pdf')
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     path3 = "/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/res_gamma1/lisprobVals200"
     path4 = "/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/res_gamma1/lislabels200"
     path1 = "/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/res/lisprobVals100"
@@ -47,6 +48,12 @@ if __name__ == '__main__':
     #path2 = "/home/rguo12/Downloads/CSE575-soumajyoti/res_gamma/lislabels100"
     #path1 = "/home/rguo12/Downloads/CSE575-soumajyoti/res_beta/lisprobVals200"
     #path2 = "/home/rguo12/Downloads/CSE575-soumajyoti/res_beta/lislabels200"
+=======
+    path1 = "../src/res/lisprobVals200"
+    path2 = "../src/res/lislabels200"
+    path3 = "../src/res_beta/lisprobVals200"
+    path4 = "../src/res_beta/lislabels200"
+>>>>>>> 74fc1e6c577c8679acd97278a0c77e3743048647
     probVals = read_LIS_output(path1,'float')
     y = read_LIS_output(path2,'int')
     probVals1 = read_LIS_output(path3,'float')
