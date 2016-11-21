@@ -66,7 +66,7 @@ public class ModelPerformance {
             e.printStackTrace();
         }
         if(config!=null && !config.isEmpty()) {
-            Cons.trainDatFile = config.get("train_dat_file");
+            Cons.trainDatFile = config.get("test_dat_file");
             Cons.resFilePathRoot = config.get("result_file_root");
             Cons.lbda = Double.parseDouble(config.get("lambda"));
             Cons.mu = Double.parseDouble(config.get("mu"));

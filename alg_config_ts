@@ -1,0 +1,26 @@
+//for data
+test_dat_file=/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/data/ts.dat
+result_file_root=./res_gamma1/lis
+log_file=log
+//alg control
+node_size=1000
+feature_length=10
+beta=0.01
+paramL=50
+phi=1.0
+//alg performance
+lambda=.01
+mu=.3
+learning_rate=.01
+gama=.7
+theta=.01
+stop_threshold=.0000001
+max_epoch=200
+has_stopped=false
+//parallet
+thread_number=6
+thread_sleep_time=.1
+//prediction
+probThres=0.01
+moreNeg=1
+neg=0

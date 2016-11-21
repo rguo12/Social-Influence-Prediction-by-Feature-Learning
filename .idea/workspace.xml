@@ -2,65 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4216c5b-61de-4b99-b59b-ffac9801e013" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_10" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_100" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_110" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_120" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_130" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_140" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_150" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_160" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_170" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_180" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_190" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_20" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_200" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_30" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_40" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_50" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_60" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_70" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_80" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_cMatrix_90" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_10" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_100" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_110" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_120" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_130" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_140" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_150" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_160" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_170" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_180" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_190" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_20" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_200" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_30" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_40" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_50" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_60" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_70" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_80" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lis_uMatrix_90" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lislabels100" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lislabels200" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lisprobVals100" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res_gamma/lisprobVals200" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res_gamma/log" afterPath="$PROJECT_DIR$/res_gamma/log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alg_config_ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_neighbeta.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alg_config" afterPath="$PROJECT_DIR$/alg_config_tr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log" afterPath="$PROJECT_DIR$/log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" afterPath="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" />
     </list>
     <list id="cf6db0c3-ea88-4177-9a13-dc21827038f8" name="Rejected commit: Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alg_config" afterPath="$PROJECT_DIR$/alg_config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log" afterPath="$PROJECT_DIR$/log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roc_curve/.idea/workspace.xml" afterPath="$PROJECT_DIR$/roc_curve/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roc_curve/roc_curve.py" afterPath="$PROJECT_DIR$/roc_curve/roc_curve.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java" afterPath="$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" afterPath="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" />
     </list>
     <ignored path="LIS.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/log" ignored="false" />
+    <file path="$PROJECT_DIR$/roc_curve/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +37,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdditiveInfModel_beta.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AdditiveInfModel_beta.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="551" column="13" selection-start-line="551" selection-start-column="13" selection-end-line="551" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="687" column="30" selection-start-line="687" selection-start-column="30" selection-end-line="687" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelPerformance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/alg/lis/ModelPerformance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <folding>
+                <element signature="e#852#868#0" expanded="true" />
+                <element signature="e#933#942#0" expanded="true" />
+                <element signature="e#4043#4059#0" expanded="true" />
+                <element signature="e#8281#8289#0" expanded="true" />
+                <element signature="e#8345#8354#0" expanded="true" />
+                <element signature="e#8626#8635#0" expanded="true" />
+                <element signature="e#10501#10510#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toy.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/toy.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="77" column="31" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tr.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/tr.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ts.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/ts.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -94,28 +98,10 @@
       <file leaf-file-name="AdditiveInfModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="614" column="37" selection-start-line="614" selection-start-column="37" selection-end-line="614" selection-end-column="37" />
+            <state relative-caret-position="10811">
+              <caret line="583" column="49" selection-start-line="583" selection-start-column="49" selection-end-line="583" selection-end-column="49" />
               <folding>
                 <element signature="e#740#749#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModelPerformance.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/alg/lis/ModelPerformance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="425" column="32" selection-start-line="425" selection-start-column="32" selection-end-line="425" selection-end-column="32" />
-              <folding>
-                <element signature="e#852#868#0" expanded="true" />
-                <element signature="e#933#942#0" expanded="true" />
-                <element signature="e#4044#4060#0" expanded="true" />
-                <element signature="e#8282#8290#0" expanded="true" />
-                <element signature="e#8346#8355#0" expanded="true" />
-                <element signature="e#8627#8636#0" expanded="true" />
-                <element signature="e#10502#10511#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,44 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cons.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/alg/lis/cons/Cons.java">
+      <file leaf-file-name="alg_config_tr" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alg_config_tr">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="73" column="74" selection-start-line="73" selection-start-column="74" selection-end-line="73" selection-end-column="74" />
-              <folding>
-                <element signature="e#3058#3085#0" expanded="true" />
-                <element signature="e#3163#3192#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatrixTools.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/alg/lis/utils/MatrixTools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="887">
-              <caret line="59" column="31" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VecTools.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/alg/lis/utils/VecTools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alg_config" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alg_config">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="190">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -199,10 +152,14 @@
         <option value="$PROJECT_DIR$/src/alg/lis/AdditiveInfModel.java" />
         <option value="$PROJECT_DIR$/src/alg/lis/cons/Cons.java" />
         <option value="$PROJECT_DIR$/src/alg/lis/DataInitiator.java" />
-        <option value="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" />
         <option value="$PROJECT_DIR$/res_gamma/log" />
         <option value="$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java" />
         <option value="$PROJECT_DIR$/alg_config" />
+        <option value="$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_neighbeta.java" />
+        <option value="$PROJECT_DIR$/src/alg/lis/TrainTestSplit.java" />
+        <option value="$PROJECT_DIR$/alg_config_tr" />
+        <option value="$PROJECT_DIR$/alg_config_ts" />
+        <option value="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" />
       </list>
     </option>
   </component>
@@ -276,6 +233,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LIS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LIS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -293,10 +264,11 @@
       <recent name="alg.lis" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/bin/alg/lis" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdditiveInfModel_beta">
+  <component name="RunManager" selected="Application.ModelPerformance">
     <configuration default="false" name="AdditiveInfModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -346,7 +318,7 @@
       </extension>
       <option name="MAIN_CLASS_NAME" value="alg.lis.ModelPerformance" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="alg_config" />
+      <option name="PROGRAM_PARAMETERS" value="alg_config_ts" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
@@ -608,8 +580,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.AdditiveInfModel_beta" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ModelPerformance" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ModelPerformance" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AdditiveInfModel_beta" />
         <item index="2" class="java.lang.String" itemvalue="Application.AdditiveInfModel" />
       </list>
     </recent_temporary>
@@ -632,16 +604,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5018868" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34556574" sideWeight="0.5040431" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34556574" sideWeight="0.49811321" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34556574" sideWeight="0.49595687" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -686,88 +658,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11761">
-          <caret line="633" column="0" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res_beta/lis_uMatrix_200">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res_beta/lis_cMatrix_200">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/utils/MatrixTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3002">
-          <caret line="164" column="47" selection-start-line="164" selection-start-column="47" selection-end-line="164" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/utils/VecTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1748">
-          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/DataInitiator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4047">
-          <caret line="231" column="13" selection-start-line="231" selection-start-column="13" selection-end-line="231" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/cons/Cons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-          <folding>
-            <element signature="e#3058#3085#0" expanded="true" />
-            <element signature="e#3163#3192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg_config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12331">
-          <caret line="663" column="8" selection-start-line="663" selection-start-column="8" selection-end-line="663" selection-end-column="8" />
-          <folding>
-            <element signature="e#740#749#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/alg/lis/AdditiveInfModel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/lis_uMatrix_200">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -789,7 +679,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alg_config">
+    <entry file="file://$PROJECT_DIR$/alg_config_tr">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
@@ -835,7 +725,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alg_config">
+    <entry file="file://$PROJECT_DIR$/alg_config_tr">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
@@ -997,29 +887,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/utils/MatrixTools.java">
+    <entry file="file://$PROJECT_DIR$/res_gamma/log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="59" column="31" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/cons/Cons.java">
+    <entry file="file://$PROJECT_DIR$/res_gamma1/lis_cMatrix_10">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="73" column="74" selection-start-line="73" selection-start-column="74" selection-end-line="73" selection-end-column="74" />
-          <folding>
-            <element signature="e#3058#3085#0" expanded="true" />
-            <element signature="e#3163#3192#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/DataInitiator.java">
+    <entry file="file://$PROJECT_DIR$/res_gamma/lis_uMatrix_200">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="289" column="5" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="5" />
+        <state relative-caret-position="14079">
+          <caret line="741" column="87" selection-start-line="741" selection-start-column="87" selection-end-line="741" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res_gamma1/lis_uMatrix_200">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1032,53 +927,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res_gamma/log">
+    <entry file="file://$PROJECT_DIR$/src/alg/lis/cons/Cons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding>
+            <element signature="e#3058#3085#0" expanded="true" />
+            <element signature="e#3163#3192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alg/lis/utils/MatrixTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="887">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res_gamma1/lisprobVals200">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alg/lis/TrainTestSplit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/toy.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ts.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tr.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="614" column="37" selection-start-line="614" selection-start-column="37" selection-end-line="614" selection-end-column="37" />
+        <state relative-caret-position="10811">
+          <caret line="583" column="49" selection-start-line="583" selection-start-column="49" selection-end-line="583" selection-end-column="49" />
           <folding>
             <element signature="e#740#749#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alg_config">
+    <entry file="file://$PROJECT_DIR$/alg_config_tr">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="190">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java">
+    <entry file="file://$PROJECT_DIR$/src/alg/lis/DataInitiator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="551" column="13" selection-start-line="551" selection-start-column="13" selection-end-line="551" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="289" column="5" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alg_config_ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_neighbeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="546" column="0" selection-start-line="546" selection-start-column="0" selection-end-line="546" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alg/lis/ModelPerformance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="425" column="32" selection-start-line="425" selection-start-column="32" selection-end-line="425" selection-end-column="32" />
+        <state relative-caret-position="70">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
           <folding>
             <element signature="e#852#868#0" expanded="true" />
             <element signature="e#933#942#0" expanded="true" />
-            <element signature="e#4044#4060#0" expanded="true" />
-            <element signature="e#8282#8290#0" expanded="true" />
-            <element signature="e#8346#8355#0" expanded="true" />
-            <element signature="e#8627#8636#0" expanded="true" />
-            <element signature="e#10502#10511#0" expanded="true" />
+            <element signature="e#4043#4059#0" expanded="true" />
+            <element signature="e#8281#8289#0" expanded="true" />
+            <element signature="e#8345#8354#0" expanded="true" />
+            <element signature="e#8626#8635#0" expanded="true" />
+            <element signature="e#10501#10510#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="687" column="30" selection-start-line="687" selection-start-column="30" selection-end-line="687" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

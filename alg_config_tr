@@ -1,5 +1,5 @@
 //for data
-train_dat_file=/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/data/toy.dat
+train_dat_file=/home/rguo12/GoogleDrive/2016 Fall/SML/Project/LIS/data/tr.dat
 result_file_root=./res_gamma1/lis
 log_file=log
 //alg control
