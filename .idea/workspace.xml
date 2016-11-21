@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4216c5b-61de-4b99-b59b-ffac9801e013" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alg_config_ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_neighbeta.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/alg_config" afterPath="$PROJECT_DIR$/alg_config_tr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log" afterPath="$PROJECT_DIR$/log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" afterPath="$PROJECT_DIR$/src/alg/lis/ModelPerformance.java" />
-    </list>
-    <list id="cf6db0c3-ea88-4177-9a13-dc21827038f8" name="Rejected commit: Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roc_curve/.idea/workspace.xml" afterPath="$PROJECT_DIR$/roc_curve/.idea/workspace.xml" />
     </list>
+    <list id="cf6db0c3-ea88-4177-9a13-dc21827038f8" name="Rejected commit: Default" comment="" />
     <ignored path="LIS.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/roc_curve/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +33,8 @@
       <file leaf-file-name="AdditiveInfModel_beta.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="687" column="30" selection-start-line="687" selection-start-column="30" selection-end-line="687" selection-end-column="30" />
+            <state relative-caret-position="282">
+              <caret line="667" column="38" selection-start-line="667" selection-start-column="38" selection-end-line="667" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -613,8 +606,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34556574" sideWeight="0.5040431" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34556574" sideWeight="0.49595687" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34556574" sideWeight="0.49595687" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1046,8 +1039,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alg/lis/AdditiveInfModel_beta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="687" column="30" selection-start-line="687" selection-start-column="30" selection-end-line="687" selection-end-column="30" />
+        <state relative-caret-position="282">
+          <caret line="667" column="38" selection-start-line="667" selection-start-column="38" selection-end-line="667" selection-end-column="38" />
           <folding />
         </state>
       </provider>
