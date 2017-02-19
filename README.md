@@ -1,8 +1,11 @@
-# CSE575
-First upload
+# CSE575 Course Project
 
-Majority of this code is downloaded from http://yongqwang.com/public/code/lis.zip for their AAAI 2015 paper 
+Majority of this code is inherited from http://yongqwang.com/public/code/lis.zip for their AAAI 2015 paper
 
-Yongqing Wang, Huawei Shen, Shenghua Liu and Xueqi Cheng. 
-Learning user-specific latent influence and susceptibility from information cascades. 
-The 29th AAAI Conference on Artificial Intelligence (AAAI-15). Austin, USA, 2015.
+Run AdditiveInfModel_beta.java or AdditiveInfModel_neighbeta.java to train model based on our idea with users' self-similarity considered.
+
+Run ModelPerformance.java to get prediction results.
+
+Use roc_curve_cmp.py to draw the ROC curve.
+
+Twitter Data preprocessed can be found in ./data/tr.dat and ./data/ts.dat.
