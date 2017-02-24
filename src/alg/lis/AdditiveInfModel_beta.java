@@ -21,10 +21,10 @@ import java.util.concurrent.Executors;
  * u refers to susceptibility
  * c refers to influence
  *
- * @author King Wang
- * 
- * Dec 5, 2013 5:41:47 PM
- * @version 1.0
+ * @inherited from King Wang
+ * @author Ruocheng Guo
+ * Nov, 2016
+ * @version 1.1
  */
 public class AdditiveInfModel_beta {
 
